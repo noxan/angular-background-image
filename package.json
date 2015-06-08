@@ -1,6 +1,6 @@
 {
   "name": "angular-background-image",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Background image directive for angular.",
   "main": "src/index.js",
   "scripts": {
