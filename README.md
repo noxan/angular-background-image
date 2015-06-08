@@ -19,3 +19,10 @@ Add `backgroundImage` module to your angular app:
 Use directive:
 
     <div background-image="{{model.imageURL}}"></div>
+
+
+## Credits
+
+Build so often, too often, now as module.
+
+First implementation has been based on http://stackoverflow.com/a/15537359, thanks!
