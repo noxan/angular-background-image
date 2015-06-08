@@ -21,6 +21,14 @@ Use directive:
     <div background-image="{{model.imageURL}}"></div>
 
 
+## Development
+
+### Style guide check
+
+Use `JSCS` to enforce code style guide, http://jscs.info
+
+    jscs src/index.js
+
 ## Credits
 
 Build so often, too often, now as module.
