@@ -1,0 +1,25 @@
+{
+  "name": "angular-background-image",
+  "version": "0.1.0",
+  "description": "Background image directive for angular.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noxan/angular-background-image.git"
+  },
+  "keywords": [
+    "angular",
+    "background",
+    "image",
+    "directive"
+  ],
+  "author": "Richard Stromer <richard@devisio.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noxan/angular-background-image/issues"
+  },
+  "homepage": "https://github.com/noxan/angular-background-image"
+}
